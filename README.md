@@ -10,3 +10,4 @@ Niche Document List
 - [有据:事实核查手册](https://chinafactcheck.com/wp-content/themes/youju/assets/fact-check-manua-PC.pdf)
 - [1Password Security Design](https://1passwordstatic.com/files/security/1password-white-paper.pdf)
 - [慢雾:区块链黑暗森林自救手册](https://github.com/slowmist/Blockchain-dark-forest-selfguard-handbook/blob/main/README_CN.md)
+- [Diátaxis:A systematic approach to technical documentation authoring](https://diataxis.fr/)
